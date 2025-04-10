@@ -25,7 +25,7 @@ select {
   cursor: pointer;
   border: none;
   text-align: center;
-  -webkit-appearance: none !important;
+  /* -webkit-appearance: none !important; */
 }
 
 select:hover,
