@@ -183,7 +183,7 @@ button:hover {
 }
 
 .slider {
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   min-width: 80px;
   height: 5px;
   border: none;
